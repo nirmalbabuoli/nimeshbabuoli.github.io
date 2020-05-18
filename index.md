@@ -14,7 +14,7 @@ bigimg:
   - "/img/big-imgs/SuperiorShip15.jpg" : "Ship on Lake Superior, 2015"
 ---
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <a href="http://derekogle.com/fishR/" role="button" class="btn btn-primary">fishR</a> 
 <a href="http://derekogle.com/IFAR/" role="button" class="btn btn-primary">IFAR Book</a> 
@@ -22,4 +22,4 @@ bigimg:
 <a href="http://derekogle.com/NCMTH207/" role="button" class="btn btn-primary">MTH207</a> 
 <a href="http://derekogle.com/NCGraphing/" role="button" class="btn btn-primary">MTH250</a> 
 <a href="http://derekogle.com/NCHighways/" role="button" class="btn btn-primary">Highways</a> 
-</div>
+</div> -->

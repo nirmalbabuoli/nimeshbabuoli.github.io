@@ -45,11 +45,11 @@ footer-links-active:
   github: false
   linkedin: true
   stackoverflow: false
-  instagram : true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "nimeshbabuoli.com.np"
+#url-pretty: "nimeshbabuoli.com.np"
 
 # --- Misc --- #
 
