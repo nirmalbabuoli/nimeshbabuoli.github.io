@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Dr. Derek H. Ogle
+title: Nimesh Babu Oli
 ---
 
-##  Professor of Mathematical Sciences and Natural Resources, [Northland College](http://www.northland.edu/)
+##  Computer Enginer, [Tribhuwan University, Institute of Engineering, Pashchimanchal Campus](http://www.https:/www.ioepas.edu.np/)
 
 ### Contact
 * Center for Science and the Environment 228
-* 715-682-1300
-* [dogle@northland.edu](mailto:dogle@northland.edu)
+* [nimeshbabuoli@gmail.com](mailto:nimeshbabuoli@gmail.com)
 
 ### Profiles
 * [CV](resources/CV.pdf)
@@ -16,6 +15,5 @@ title: Dr. Derek H. Ogle
 * [ResearchGate](https://www.researchgate.net/profile/Derek_Ogle/) / [Orcid](http://orcid.org/0000-0002-0370-9299) / [Google Scholar](http://scholar.google.com/citations?user=Xt9IgGkAAAAJ) / [Microsoft Academic Search](http://academic.research.microsoft.com/Author/34361005/derek-h-ogle) / [Academia.edu](http://northland.academia.edu/DerekOgle)
 
 ### Education
-* Ph.D (1996), Fisheries & Wildlife, [University of Minnesota](http://fwcb.cfans.umn.edu/)
-* M.Sc (1992), Fisheries & Wildlife, [University of Minnesota](http://fwcb.cfans.umn.edu/)
-* B.Sc (1989), Environmental Studies, [Northland College](http://www.northland.edu/)
+* Bachelors in Computer Engineering, [Tribhuvan University](http://www.tribhuvan-university.edu.np/)
+* High School(+2), Major in Physics, Chemistry, Biology and Mathematics, [Kanchanjunga English High School, HSEB](https://www.kanchanjungaschool.edu.np/website)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nimesh Babu Oli
-subtitle: International Relations ENthusiast / Computer Engineer
+subtitle: International Relations Enthusiast / Computer Engineer
 css: "/css/index.css"
 meta-title: "Nimesh Babu Oli"
 meta-description: "Computer Engineer from Tribhuvan University, Institute of Engineering, Nepal"
