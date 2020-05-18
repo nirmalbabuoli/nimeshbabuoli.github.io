@@ -1,7 +1,7 @@
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
-url: "http://droglenc.github.io"
+url: "http://nimeshbabuoli.com.np"
 # baseurl is the website's URL without the hostname
 baseurl: ""
 
@@ -28,24 +28,28 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Derek H. Ogle
-  email: "dogle@northland.edu"
-  github: droglenc
-  twitter: droglenc
+  name: Nimesh Babu Oli
+  email: "nimeshbabuoli@gmail.com"
+  linkedin: nimeshbabuoli
+  twitter: nimeshbabuoli
+  facebook: nimeshbabuoli
+  instagram: nimeshbabuoli
+
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  facebook: true
   email: true
   twitter: true
-  github: true
-  linkedin: false
+  github: false
+  linkedin: true
   stackoverflow: false
+  instagram : true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "derekogle.com"
+url-pretty: "nimeshbabuoli.com.np"
 
 # --- Misc --- #
 
@@ -58,7 +62,7 @@ google_analytics: "UA-67615311-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Chicago"
+timezone: "Nepal/Kathmandu"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
