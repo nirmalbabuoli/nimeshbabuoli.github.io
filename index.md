@@ -6,12 +6,9 @@ css: "/css/index.css"
 meta-title: "Nimesh Babu Oli"
 meta-description: "Computer Engineer from Tribhuvan University, Institute of Engineering, Nepal"
 bigimg:
-  - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
-  - "/img/big-imgs/Arizona_2017b.jpg" : "Arizona, 2017"
-  - "/img/big-imgs/MuskegSunset17.JPG" : "Winter Sunset, Muskeg, 2017"
-  - "/img/big-imgs/Vancouver2.jpg" : "Vancouver Island, 2016"
-  - "/img/big-imgs/SunsetHome18.JPG" : "Sunset at Home, 2018"
-  - "/img/big-imgs/SuperiorShip15.jpg" : "Ship on Lake Superior, 2015"
+  - "/img/big-imgs/nimesh_at_rajghat.jpg" : "Nimesh at Rajghat, New Delhi, 2020"
+  - "/img/big-imgs/nimesh_at_pmun2020.jpg" : "Nimesh at Pokhara Model UN, Pokhara, 2020"
+
 ---
 
 <!-- <div style="text-align:center">
