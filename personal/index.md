@@ -1,4 +1,7 @@
----
+
+### Under Construction
+
+<!-- ---
 layout: page
 title: Having Fun!
 ---
@@ -26,4 +29,4 @@ Not surprisingly, I also make occasional TV appearances.  The most famous of the
   </a>
 </div>
 
-I also had a cameo on [this Travel Wisconsin piece about Big Top Chautauqua](http://www.travelwisconsin.com/media-gallery/media/a-night-at-big-top-chautauqua-concert-under-a-tent-music-in-wisconsin-170539).  For some reason, they used mostly clips of my wife and her family.
+I also had a cameo on [this Travel Wisconsin piece about Big Top Chautauqua](http://www.travelwisconsin.com/media-gallery/media/a-night-at-big-top-chautauqua-concert-under-a-tent-music-in-wisconsin-170539).  For some reason, they used mostly clips of my wife and her family. -->

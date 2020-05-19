@@ -1,4 +1,7 @@
----
+### Under Construction
+
+
+<!-- ---
 layout: page
 title: Helping Students Learn!
 ---
@@ -23,4 +26,4 @@ The following are examples of students students conducting field work in my clas
 [![Gabby](img/Video_Gabby.JPG)](https://youtu.be/NUH70p9CdNQ)
 
 * Katie Lancaster describes fyke-netting on Inch Lake.
-[![Zach & Kelsey](img/Video_ZachKelsey.JPG)](https://youtu.be/kbAQ0mpQZWE)
+[![Zach & Kelsey](img/Video_ZachKelsey.JPG)](https://youtu.be/kbAQ0mpQZWE) -->
