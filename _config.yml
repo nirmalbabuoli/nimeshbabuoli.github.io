@@ -5,7 +5,7 @@ url: "http://nimeshbabuoli.com.np"
 # baseurl is the website's URL without the hostname
 baseurl: ""
 
-# Name of website
+# Name of website 
 title: Nimesh Babu Oli
 # Short description of your site
 description: Member at Nepal Council of World Affairs.
@@ -62,7 +62,7 @@ google_analytics: "UA-67615311-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Nepal/Kathmandu"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title

@@ -1,13 +1,15 @@
 ---
 layout: page
+
 title: Nimesh Babu Oli
 subtitle: International Relations Enthusiast / Computer Engineer
 css: "/css/index.css"
 meta-title: "Nimesh Babu Oli"
 meta-description: "Computer Engineer from Tribhuvan University, Institute of Engineering, Nepal"
 bigimg:
-  - "/img/big-imgs/nimesh_at_rajghat.jpg" : "Nimesh at Rajghat, New Delhi, 2020"
-  - "/img/big-imgs/nimesh_at_pmun2020.jpg" : "Nimesh at Pokhara Model UN, Pokhara, 2020"
+  #- "/img/big-imgs/nimesh_at_rajghat.jpg" : "Nimesh at Rajghat, New Delhi, 2020"
+  - "/img/big-imgs/solvay_conference2.jpg" : "Solvay Conference"
+  - "/img/big-imgs/solvay_conference.jpg" : "Solvay Conference"
 
 ---
 
