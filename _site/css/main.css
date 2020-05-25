@@ -101,7 +101,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: rgb(153, 229, 178);
+  background: #F4F7F6; 
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -115,14 +115,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #D93F87#87D2F1;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #ff0000;
+  color: #D14900;
 }
 
 @media only screen and (min-width: 768px) {
@@ -242,7 +242,7 @@ img {
 
 footer {
   padding: 30px 0;
-  background: rgb(236, 192, 135);
+  background: #F3F0EB;
   border-top: 1px #EAEAEA solid;
   margin-top: 35px;
   font-size: 14px;

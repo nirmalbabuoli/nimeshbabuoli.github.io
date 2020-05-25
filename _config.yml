@@ -17,9 +17,10 @@ avatar: "/img/nbo.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: "teaching"
-  Research: "research"
-  Personal: "personal"
+  Research: "Research"  
+  Travel: "Travel"
+  Personal: "Personal"
+  Resume: "Resume"
   About/Contact: "aboutme"
   Home: ""
 
@@ -28,12 +29,12 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Nimesh Babu Oli
+  name: "Nimesh Babu Oli"
   email: "nimeshbabuoli@gmail.com"
-  linkedin: nimeshbabuoli
-  twitter: nimeshbabuoli
-  facebook: nimeshbabuoli
-  instagram: nimeshbabuoli
+  twitter: "nimeshbabuoli"
+  linkedin: "nimeshbabuoli"
+  facebook: "nimeshbabuoli"
+  instagram: "nimeshbabuoli"
 
 
 # Select which links to show in the footer
@@ -49,7 +50,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "nimeshbabuoli.com.np"
+url-pretty: "nimeshbabuoli.com.np"
 
 # --- Misc --- #
 

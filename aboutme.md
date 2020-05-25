@@ -3,7 +3,7 @@ layout: page
 title: Nimesh Babu Oli
 ---
 
-###  Computer Engineer, [Tribhuvan University, Institute of Engineering, Pashchimanchal Campus](https:/www.ioepas.edu.np/)
+###  I am a simple human being trying to understand the laws of the nature.
 
 
 ### Contact
