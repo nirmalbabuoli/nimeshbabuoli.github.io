@@ -23,10 +23,10 @@ navbar-links:
       # -Work: "work"
       # -articles: "articles"
       # -Certifications: "certifications"
-  Connect: "connect"
-    -LinkedIn: "https://www.linkedin.com/in/nirmalbabuoli/"
-    -Facebook: "https://www.facebook.com/Babuoleenirmal"
-    -Twitter: "https://twitter.com/nirmalbabuoli"
+  Connect:
+    - LinkedIn: "https://www.linkedin.com/in/nirmalbabuoli/"
+    - Facebook: "https://www.facebook.com/Babuoleenirmal"
+    - Twitter: "https://twitter.com/nirmalbabuoli"
   About/Contact: "aboutme"
   Home: ""
 
