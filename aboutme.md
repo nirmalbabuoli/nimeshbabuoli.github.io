@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Nimesh Babu Oli
+title: Nirmal Babu Oli
 ---
 
-###  I am a simple human being trying to understand the laws of the nature.
+###  Hi, I am Nirmal.
 
 
 ### Contact
-* [nimeshbabuoli@gmail.com](mailto:nimeshbabuoli@gmail.com)
+* [canirmalbabuoli@gmail.com](mailto:canirmalbabuoli@gmail.com)
 
 <!-- ### Profiles
 * [CV](resources/CV.pdf)
@@ -15,5 +15,5 @@ title: Nimesh Babu Oli
 * [ResearchGate](https://www.researchgate.net/profile/Derek_Ogle/) / [Orcid](http://orcid.org/0000-0002-0370-9299) / [Google Scholar](http://scholar.google.com/citations?user=Xt9IgGkAAAAJ) / [Microsoft Academic Search](http://academic.research.microsoft.com/Author/34361005/derek-h-ogle) / [Academia.edu](http://northland.academia.edu/DerekOgle) -->
 
 ### Education
-* Bachelors in Computer Engineering, [Tribhuvan University, Institute of Engineering](https:/www.ioepas.edu.np/)
-* High School(+2), Major in Physics, Chemistry, Biology and Mathematics, [Kanchanjunga English High School, HSEB](https://www.kanchanjungaschool.edu.np/website)
+* Bachelors in Commerce (BCom.), [Indira Gandhi National Open University, IGNOU, New Delhi, India](http://www.ignou.ac.in/)
+* High School(+2) Science, Kankai College, Birtamod, Jhapa, Nepal   

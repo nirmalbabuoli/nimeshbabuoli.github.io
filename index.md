@@ -1,14 +1,13 @@
 ---
 layout: page
 
-title: Nimesh Babu Oli
-subtitle: International Relations Enthusiast / Computer Engineer
+title: Nirmal Babu Oli
+subtitle: Welcome to my Website
 css: "/css/index.css"
-meta-title: "Nimesh Babu Oli"
-meta-description: "I am a simple human Being trying to understand the world"
+meta-title: "Nirmal Babu Oli"
+meta-description: "I am Mr. Nirmal"
 bigimg:
-  - "/img/big-imgs/nimesh_at_rajghat.jpg" : "Nimesh at Rajghat, New Delhi, 2020"
-  - "/img/big-imgs/solvay_conference.jpg" : "Solvay Conference"
+  - "/img/big-imgs/nirmal_landscape.jpg" : "At Humayun Tomb, New Delhi"
 
 ---
 

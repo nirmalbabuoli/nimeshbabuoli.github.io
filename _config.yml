@@ -1,26 +1,32 @@
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
-url: "http://nimeshbabuoli.com.np"
+url: "http://nirmalbabuoli.com.np"
 # baseurl is the website's URL without the hostname
 baseurl: ""
 
 # Name of website 
-title: Nimesh Babu Oli
+title: Nirmal Babu Oli
 # Short description of your site
-description: Member at Nepal Council of World Affairs.
+description: Chairman at Synergy Professionals Nepal (SPN).
 
 # --- Navigation bar options --- #
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/nbo.png"
+avatar: "/img/nirmal.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "Research"  
-  Travel: "Travel"
-  Personal: "Personal"
-  Resume: "Resume"
+  Resume: "resume"
+  Activites: "activities"
+      # -Blog: "blog"
+      # -Work: "work"
+      # -articles: "articles"
+      # -Certifications: "certifications"
+  Connect: "connect"
+    # -LinkedIn: "linkedin"
+    # -Facebook: "facebook"
+    # -Twitter: "twitter"
   About/Contact: "aboutme"
   Home: ""
 
@@ -30,7 +36,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: "Nimesh Babu Oli"
-  email: "nimeshbabuoli@gmail.com"
+  email: "canirmalbabuoli@gmail.com"
   twitter: "nimeshbabuoli"
   linkedin: "nimeshbabuoli"
   facebook: "nimeshbabuoli"
@@ -50,7 +56,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "nimeshbabuoli.com.np"
+url-pretty: "nirmalbabuoli.com.np"
 
 # --- Misc --- #
 
