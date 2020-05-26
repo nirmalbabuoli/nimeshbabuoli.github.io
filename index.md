@@ -1,8 +1,7 @@
 ---
 layout: page
 
-title: Nirmal Babu Oli
-subtitle: Hello World!
+title: Nirmal Babu Oli 
 css: "/css/index.css"
 meta-title: "Nirmal Babu Oli"
 meta-description: "I am Mr. Nirmal"

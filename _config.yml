@@ -21,7 +21,7 @@ navbar-links:
   Resume: "resume"
   Activites: "activities"
       # -Blog: "blog"
-      # -Work: "work"
+      # -Work: "work"   
       # -articles: "articles"
       # -Certifications: "certifications"
   Connect:
