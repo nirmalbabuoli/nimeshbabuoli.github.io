@@ -17,6 +17,7 @@ avatar: "/img/nirmal.jpg"
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   Resume: "resume"
   Activites: "activities"
       # -Blog: "blog"
@@ -28,7 +29,6 @@ navbar-links:
     - Facebook: "https://www.facebook.com/Babuoleenirmal"
     - Twitter: "https://twitter.com/nirmalbabuoli"
   About/Contact: "aboutme"
-  Home: ""
 
 # --- Footer options --- #
 

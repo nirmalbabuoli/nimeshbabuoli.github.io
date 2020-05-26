@@ -2,12 +2,12 @@
 layout: page
 
 title: Nirmal Babu Oli
-subtitle: Welcome to my Website
+subtitle: Hi, I'm Nirmal.
 css: "/css/index.css"
 meta-title: "Nirmal Babu Oli"
 meta-description: "I am Mr. Nirmal"
 bigimg:
-  - "/img/big-imgs/nirmal_landscape.jpg" : "At Humayun Tomb, New Delhi"
+  - "/img/big-imgs/nirmal_cover.jpg" : "At Humayun Tomb, New Delhi"
 
 ---
 

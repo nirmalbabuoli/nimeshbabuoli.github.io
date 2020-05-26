@@ -11,9 +11,9 @@
   }
 }
 .index-posts-title {
-  font-weight: 800;
+  font-weight: 400;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 38px;
+  font-size: 12px;
 }
 @media only screen and (min-width: 768px) {
   .index-posts-title {
