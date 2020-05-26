@@ -24,9 +24,9 @@ navbar-links:
       # -articles: "articles"
       # -Certifications: "certifications"
   Connect: "connect"
-    # -LinkedIn: "linkedin"
-    # -Facebook: "facebook"
-    # -Twitter: "twitter"
+    -LinkedIn: "https://www.linkedin.com/in/nirmalbabuoli/"
+    -Facebook: "https://www.facebook.com/Babuoleenirmal"
+    -Twitter: "https://twitter.com/nirmalbabuoli"
   About/Contact: "aboutme"
   Home: ""
 
