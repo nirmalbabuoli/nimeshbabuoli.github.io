@@ -6,7 +6,16 @@ css: "/css/index.css"
 meta-title: "Nirmal Babu Oli"
 meta-description: "I am Mr. Nirmal"
 bigimg:
-  - "/img/big-imgs/nirmal_cover.jpg" : "At Humayun Tomb, New Delhi"
+  - "/img/big-imgs/nirmal_landscape.jpg" : "At Humayun Tomb, New Delhi"
+  - "/img/big-imgs/nirmal_as_toastmaster.jpg" : "Citation 2019, Toastmasters"
+  - "/img/big-imgs/nirmal_on_bike.jpg" : "Adventure in a Bike, Sindhupalchowk, Nepal"
+  - "/img/big-imgs/nirmal_at_tea_garden.jpg" : "At Tea garden, Illam, Nepal"
+  - "/img/big-imgs/nirmal_with_spectacles.jpg" : "Somewhere under the Sky"
+  - "/img/big-imgs/nirmal_at_ttc.jpg" : "At a Toastmasters Club, Kathmandu, Nepal"
+  # - "/img/big-imgs/nirmal_cover.jpg" : "At Humayun Tomb, New Delhi"
+  # - "/img/big-imgs/nirmal_cover.jpg" : "At Humayun Tomb, New Delhi"
+
+  
 
 ---
 
